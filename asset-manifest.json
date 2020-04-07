@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/karma-front-end/static/css/main.9137fb8f.chunk.css",
+    "main.js": "/karma-front-end/static/js/main.d1bc88c6.chunk.js",
+    "main.js.map": "/karma-front-end/static/js/main.d1bc88c6.chunk.js.map",
+    "runtime-main.js": "/karma-front-end/static/js/runtime-main.65478dea.js",
+    "runtime-main.js.map": "/karma-front-end/static/js/runtime-main.65478dea.js.map",
+    "static/js/2.617cc598.chunk.js": "/karma-front-end/static/js/2.617cc598.chunk.js",
+    "static/js/2.617cc598.chunk.js.map": "/karma-front-end/static/js/2.617cc598.chunk.js.map",
+    "index.html": "/karma-front-end/index.html",
+    "precache-manifest.72e9af5617542124477dd8d55e1bc9bf.js": "/karma-front-end/precache-manifest.72e9af5617542124477dd8d55e1bc9bf.js",
+    "service-worker.js": "/karma-front-end/service-worker.js",
+    "static/css/main.9137fb8f.chunk.css.map": "/karma-front-end/static/css/main.9137fb8f.chunk.css.map",
+    "static/js/2.617cc598.chunk.js.LICENSE.txt": "/karma-front-end/static/js/2.617cc598.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/karma-front-end/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65478dea.js",
+    "static/js/2.617cc598.chunk.js",
+    "static/css/main.9137fb8f.chunk.css",
+    "static/js/main.d1bc88c6.chunk.js"
+  ]
+}
