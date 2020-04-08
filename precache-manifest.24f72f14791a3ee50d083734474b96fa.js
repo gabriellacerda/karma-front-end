@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "836aef03ce1ad417d14821eab2b41721",
+    "revision": "3119203589751afb3e59f98bf1c1e39e",
     "url": "/karma-front-end/index.html"
   },
   {
-    "revision": "a011315e3440bafe7513",
+    "revision": "7ed48be2dfe4afcc56c5",
     "url": "/karma-front-end/static/css/main.9137fb8f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/karma-front-end/static/js/2.617cc598.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a011315e3440bafe7513",
-    "url": "/karma-front-end/static/js/main.d1bc88c6.chunk.js"
+    "revision": "7ed48be2dfe4afcc56c5",
+    "url": "/karma-front-end/static/js/main.f268054b.chunk.js"
   },
   {
     "revision": "6d8e097ccf29545f3fc2",
