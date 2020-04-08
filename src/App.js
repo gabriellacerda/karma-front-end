@@ -142,7 +142,7 @@ class App extends Component {
                   <div className="btn-fixed">
                     <button className="btn btn-primary" onClick={this.loadResources}>Atualizar</button>
                   </div>
-                  <h4>Eventos &middot; Açaiteria Delivery</h4>
+          <h4>Eventos &middot; Açaiteria Delivery &middot; {this.state.requests.length - 1}</h4>
                   <ul className="timeline">
                     {this.state.requests.map((request) => (
                       <li>
